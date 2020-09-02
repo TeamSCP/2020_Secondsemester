@@ -3,7 +3,7 @@
 
   ### 📁Folder format
 
-  - [개인프로젝트](https://github.com/TeamSCP/2020_SummerVacation/tree/master/%EA%B0%9C%EC%9D%B8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+  - 개인 공부
       - YYYY_MM_DD
   - 스터디그룹
         - 추후 변경 예정
